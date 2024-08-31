@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\bin\Debug\net8.0\MotoShopLibrary.deps.json
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\bin\Debug\net8.0\MotoShopLibrary.dll
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\bin\Debug\net8.0\MotoShopLibrary.pdb
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.dll
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\refint\MotoShopLibrary.dll
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\MotoShopLibrary.pdb
+C:\Users\MINEDUCYT\source\repos\MotorShopApp\MotoShopLibrary\obj\Debug\net8.0\ref\MotoShopLibrary.dll
